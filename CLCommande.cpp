@@ -17,7 +17,6 @@ namespace NS_Comp_Mappage {
 
 	}
 
-	CLCommande::~CLCommande() {}
 }
 System::String^ NS_Comp_Mappage::CLCommande::SelectCommande(void)
 {
