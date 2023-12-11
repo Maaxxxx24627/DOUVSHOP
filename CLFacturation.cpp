@@ -16,7 +16,6 @@ namespace NS_Comp_Mappage {
 
 	}
 
-	CLFacturation::~CLFacturation() {}
 
 }
 System::String^ NS_Comp_Mappage::CLFacturation::SelectFacturation(void)
