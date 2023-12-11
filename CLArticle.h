@@ -9,7 +9,6 @@ namespace NS_Comp_Mappage {
 	{
 	private:
 		CLArticle(void);
-		~CLArticle();
 		int^ idArticle;
 		String^ nom;
 		String^ nature;
