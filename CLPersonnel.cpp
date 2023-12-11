@@ -11,8 +11,6 @@ namespace NS_Comp_Mappage {
 		this->superieur = "RIEN";
 	}
 
-	CLPersonnel::~CLPersonnel() {}
-
 	String^ CLPersonnel::SelectPersonnel(void)
 	{
 		return "SELECT [idPersonnel], [nom], [prenom], [adresse], [dateEmbauche], [superieur] FROM [POO].[dbo].[Personnel]";
