@@ -9,7 +9,6 @@ namespace NS_Comp_Mappage {
 	{
 	private:
 		CLCommande(void);
-		~CLCommande();
 
 		int^ idCommande;
 		String^ referenceCommande;
