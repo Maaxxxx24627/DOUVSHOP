@@ -7,7 +7,6 @@ namespace NS_Comp_Mappage {
 	{
 	private:
 		CLPersonnel(void);
-		~CLPersonnel();
 
 		int^ idPersonnel;
 		String^ nom;
