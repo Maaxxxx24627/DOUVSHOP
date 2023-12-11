@@ -7,7 +7,7 @@ namespace NS_Comp_Mappage {
 	{
 	private:
 		CLCLient(void);
-		~CLCLient();
+		
 		int^ numeroClient;
 		String^ nom;
 		String^ prenom;
