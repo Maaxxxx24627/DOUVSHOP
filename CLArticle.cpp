@@ -17,7 +17,7 @@ namespace NS_Comp_Mappage {
 
 	}
 
-	CLArticle::~CLArticle() {}
+	
 
 }
 System::String^ NS_Comp_Mappage::CLArticle::SelectArticle(void)
