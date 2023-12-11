@@ -11,7 +11,6 @@ namespace NS_Comp_Mappage {
 	{
 	private:
 		CLFacturation(void);
-		~CLFacturation();
 
 		int^ idFacturation;
 		String^ nomSociete;
