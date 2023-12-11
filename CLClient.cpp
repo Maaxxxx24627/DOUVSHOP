@@ -15,7 +15,7 @@ namespace NS_Comp_Mappage {
 
 	}
 
-	CLCLient::~CLCLient() {}
+
 
 
 }
